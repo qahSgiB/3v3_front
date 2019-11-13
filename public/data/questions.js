@@ -29,6 +29,4 @@ const questions = [
         ca('answer24', 11),
         ca('answer25', 3),
     ], 1),
-]
-
-// tat
+];
